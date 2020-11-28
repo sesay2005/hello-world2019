@@ -1,1 +1,3 @@
-# hello-world2019
+# maven-project
+
+Simple Maven Project
